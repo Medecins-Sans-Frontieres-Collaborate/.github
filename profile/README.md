@@ -18,6 +18,7 @@ Welcome to the main collaborative GitHub organization for M√©decins Sans Fronti√
 - **Submit pull requests** to improve code, documentation, or modules.
 - **Report issues or suggest enhancements** via repository issues or discussions.
 - **Initiate new collaborative projects** by creating repositories and clearly documenting their purpose.
+- **Join the community discussions** on [GitHub Discussions](https://github.com/Medecins-Sans-Frontieres-Collaborate/.github/discussions).
 
 ---
 
@@ -27,6 +28,7 @@ Welcome to the main collaborative GitHub organization for M√©decins Sans Fronti√
 - Adhere to established standards and best practices.
 - Engage respectfully and constructively in discussions and reviews.
 - Avoid sharing sensitive or confidential information in repositories.
+- Adhere to established standards and best practices outlined in our [Development Guidelines Repository](https://github.com/Medecins-Sans-Frontieres-Collaborate/development-guidelines).
 
 ---
 
