@@ -1,0 +1,10 @@
+{
+    "name": "Deploy a container to an Azure Container Apps",
+    "description": "Build a container and deploy it to an Azure Container Apps.",
+    "creator": "Microsoft Azure",
+    "iconName": "azure",
+    "categories": [
+        "Deployment",
+        "Dockerfile"
+    ]
+}
